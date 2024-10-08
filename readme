@@ -1,0 +1,8 @@
+To Run:
+
+```
+.venv\Scripts\activate
+```
+```
+flask --app main run
+```
